@@ -30,6 +30,7 @@
 /light_perm_search
 查詢擁有"打光師"身分組的成員
 
+擁有"打光師"身分組才能進行的操作
 /light_on/off
 開啟/關閉電燈
 /light_time_on/off + 時間 + 定時任務的名字
